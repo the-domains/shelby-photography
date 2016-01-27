@@ -1,0 +1,28 @@
+name: Shelby Photography
+favicon: null
+layout_spectrum: 0.09869055403396487
+typography_spectrum: 0.33504759543575346
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.16284671565517783
+  lightness: 0.7015778450295329
+  saturation: 0.8084949536714703
+  rhythmicContrast: 0.6774377280380577
+purpose: []
